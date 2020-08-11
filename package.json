@@ -1,0 +1,14 @@
+{
+  "name": "pupperteer-extract-instagram-pictures",
+  "version": "1.0.0",
+  "description": "Web scraping to get pictures in Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon Mesquita",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
